@@ -2,20 +2,20 @@
 
 ## 👩‍💻 Data Diri
 
-**Nama** : Wafiq Salma Aulia 
-**Kampus** : Universitas Teknologi Bandung 
-| **Prodi** : Teknik Informatika 
-| **Kelas** : TIF K-23B 
+- Nama   : Wafiq Salma Aulia
+- NPM    : 23552011427
+- Kelas  : TIF K-23B
+- Prodi  : Teknik Informatika 
 
 ---
 
 ## ✨ Fitur Aplikasi
 
-- 👤 Menampilkan data diri lengkap
-- 🔮 Cek zodiac berdasarkan tanggal lahir (button click)
-- 🎬 Menampilkan 5 film favorit dengan cover
-- 🎨 Tampilan modern dengan tema dark purple
-- 📱 Responsive design
+- Menampilkan data diri lengkap
+- Cek zodiac berdasarkan tanggal lahir (button click)
+- Menampilkan 5 film favorit dengan cover
+- Tampilan modern dengan tema dark purple
+- Responsive design
 
 ---
 
@@ -35,31 +35,3 @@
 - Vite
 - JavaScript
 - CSS3
-
----
-
-## 🚀 Menjalankan Project
-
-Install dependency:
-```bash
-npm install
-```
-
-Menjalankan project:
-```bash
-npm run dev
-```
-
-Build project:
-```bash
-npm run build
-```
-
----
-
-## 👩‍🎓 Author
-
-**Wafiq Salma Aulia**  
-Teknik Informatika — TIF K-23B  
-Universitas Teknologi Bandung  
-2025
