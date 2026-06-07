@@ -1,7 +1,7 @@
 # Tugas React Vite - Perkenalan Diri
 
 ## Dokumentasi Aplikasi
-<img width="558" height="591" alt="image" src="https://github.com/user-attachments/assets/74094d18-dc9e-4fd7-ab9b-c4e92f7d532f" />
+<img width="422" height="587" alt="image" src="https://github.com/user-attachments/assets/43f4ff4a-22f0-43a7-8ea0-cd93d06f7f3f" />
 
 
 ## 👩‍💻 Data Diri
