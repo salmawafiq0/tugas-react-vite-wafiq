@@ -1,16 +1,69 @@
-# React + Vite
+# 🌸 Tugas React Vite - Perkenalan Diri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👩‍💻 Data Diri
 
-Currently, two official plugins are available:
+| Field | Info |
+|-------|------|
+| **Nama** | Wafiq Salma Aulia |
+| **Pekerjaan** | Admin |
+| **Tanggal Lahir** | 26 Juni 2005 |
+| **Kampus** | Universitas Teknologi Bandung |
+| **Prodi** | Teknik Informatika |
+| **Kelas** | TIF K-23B |
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Fitur Aplikasi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 👤 Menampilkan data diri lengkap
+- 🔮 Cek zodiac berdasarkan tanggal lahir (button click)
+- 🎬 Menampilkan 5 film favorit dengan cover
+- 🎨 Tampilan modern dengan tema dark purple
+- 📱 Responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎬 Film Favorit
+
+1. **Taxi Driver** — Crime · Drama (1976)
+2. **Home School** — Drama (2019)
+3. **Alive** — Horror · Thriller (2020)
+4. **All of Us Are Dead** — Horror · Series (2022)
+5. **Forgotten** — Thriller · Mystery (2017)
+
+---
+
+## 🛠️ Teknologi
+
+- React JS
+- Vite
+- JavaScript
+- CSS3
+
+---
+
+## 🚀 Menjalankan Project
+
+Install dependency:
+```bash
+npm install
+```
+
+Menjalankan project:
+```bash
+npm run dev
+```
+
+Build project:
+```bash
+npm run build
+```
+
+---
+
+## 👩‍🎓 Author
+
+**Wafiq Salma Aulia**  
+Teknik Informatika — TIF K-23B  
+Universitas Teknologi Bandung  
+2025
