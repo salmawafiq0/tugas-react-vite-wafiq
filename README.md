@@ -1,5 +1,9 @@
 # Tugas React Vite - Perkenalan Diri
 
+## Dokumentasi Aplikasi
+<img width="558" height="591" alt="image" src="https://github.com/user-attachments/assets/74094d18-dc9e-4fd7-ab9b-c4e92f7d532f" />
+
+
 ## 👩‍💻 Data Diri
 
 - Nama   : Wafiq Salma Aulia
