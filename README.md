@@ -1,15 +1,11 @@
-# 🌸 Tugas React Vite - Perkenalan Diri
+# Tugas React Vite - Perkenalan Diri
 
 ## 👩‍💻 Data Diri
 
-| Field | Info |
-|-------|------|
-| **Nama** | Wafiq Salma Aulia |
-| **Pekerjaan** | Admin |
-| **Tanggal Lahir** | 26 Juni 2005 |
-| **Kampus** | Universitas Teknologi Bandung |
-| **Prodi** | Teknik Informatika |
-| **Kelas** | TIF K-23B |
+**Nama** : Wafiq Salma Aulia 
+**Kampus** : Universitas Teknologi Bandung 
+| **Prodi** : Teknik Informatika 
+| **Kelas** : TIF K-23B 
 
 ---
 
