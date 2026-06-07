@@ -4,7 +4,7 @@
 <img width="422" height="587" alt="image" src="https://github.com/user-attachments/assets/43f4ff4a-22f0-43a7-8ea0-cd93d06f7f3f" />
 
 
-## 👩‍💻 Data Diri
+## Data Diri
 
 - Nama   : Wafiq Salma Aulia
 - NPM    : 23552011427
@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ Fitur Aplikasi
+## Fitur Aplikasi
 
 - Menampilkan data diri lengkap
 - Cek zodiac berdasarkan tanggal lahir (button click)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🎬 Film Favorit
+## Film Favorit
 
 1. **Taxi Driver** — Crime · Drama (1976)
 2. **Home School** — Drama (2019)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - React JS
 - Vite
